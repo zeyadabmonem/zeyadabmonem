@@ -4,14 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Cs+Student+@+Cairo+University;Full+Stack+.NET+Developer;Web+Penetration+Tester;C%2B%2B+Problem+Solver;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeyadabmonem&label=Profile%20Views&color=00D1FF&style=flat" alt="Views" />
+</p>
+
 ---
 
 ### 🌑 About Me
-Computer Science student at **Cairo University (FCAI-CU)**. I specialize in building secure backends and exploring the world of cybersecurity.
+I am a Computer Science student at **Cairo University (FCAI-CU)**. I build high-performance applications with **.NET** and dive deep into **Web Security** to identify and patch vulnerabilities.
 
 - 🚀 **Focus:** Scalable .NET Systems & Web Security.
 - 🧩 **Passion:** Solving complex problems with C++.
-- 🛠️ **Strategy:** Breaking applications to understand how to build them stronger.
+- 🛡️ **Identity:** A developer with a hacker's mindset.
 
 ---
 
@@ -21,20 +25,19 @@ Computer Science student at **Cairo University (FCAI-CU)**. I specialize in buil
 
 | **Software Development** | **Web Fundamentals** | **Security & Networking** |
 | :--- | :--- | :--- |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Security](https://img.shields.io/badge/Web_Security-FF0000?style=for-the-badge&logo=guardant&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Networking](https://img.shields.io/badge/Networking-0052FF?style=for-the-badge&logo=cisco&logoColor=white) |
-| ![OOP](https://img.shields.io/badge/OOP-Logic-green?style=for-the-badge) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp" /> | <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=kali,linux,networking" /> |
+| <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github" /> | <img src="https://skillicons.dev/icons?i=bash,powershell" /> |
 
 </div>
 
-<div align="center">
-  
-**Security Tools:** ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) 
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) 
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+<br>
 
-</div>
+<p align="center">
+  **Security Tools:** <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+</p>
 
 ---
 
@@ -45,7 +48,14 @@ Computer Science student at **Cairo University (FCAI-CU)**. I specialize in buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadabmonem&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zeyadabmonem&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 The Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zeyadabmonem/zeyadabmonem/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -57,5 +67,5 @@ Computer Science student at **Cairo University (FCAI-CU)**. I specialize in buil
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=60&section=footer" />
 </p>
