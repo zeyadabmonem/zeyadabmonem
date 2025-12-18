@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeyadabmonem&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyadabmonem&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I am a **Cyber-conscious Developer** focused on building robust backends with **
 * 🎓 **Study:** Computer Science @ **FCAI - Cairo University**
 * 💻 **Backend:** Architecting secure APIs with .NET & C#
 * 🛡️ **Security:** Pentesting web applications & identifying vulnerabilities
-* 🔭 **Current Goal:** Developing high-performance, "security-by-design" systems
+* 🔭 **Current Focus:** Mastering Advanced .NET Patterns & Bug Bounty Hunting
 
 ---
 
@@ -35,19 +35,19 @@ I am a **Cyber-conscious Developer** focused on building robust backends with **
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadabmonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadabmonem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadabmonem&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/zeyad-abdel-monem-52242b324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj6bB0EB0R82siLKUQKRqqg%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zeyad-abdel-monem-52242b324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zeyad.abmonem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
