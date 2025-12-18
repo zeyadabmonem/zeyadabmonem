@@ -1,7 +1,7 @@
 # <p align="center">⚔️ ZEYAD ABDELMONEM ⚔️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Web+Penetration+Tester;C%2B%2B+Problem+Solver;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Cs+Student+@+Cairo+University;Full+Stack+.NET+Developer;Web+Penetration+Tester;C%2B%2B+Problem+Solver;Security+Researcher" alt="Typing SVG" />
 </p>
 
 ---
