@@ -1,46 +1,52 @@
 # <p align="center">⚔️ ZEYAD ABDELMONEM ⚔️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=FCAI+Student+@+Cairo+University;Future+.NET+Architect;Web+Penetration+Tester+in+Training;Problem+Solver+using+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Web+Penetration+Tester;C%2B%2B+Problem+Solver;Security+Researcher" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌑 About Me
-I am a passionate Computer Science student dedicated to mastering the art of building and securing web applications. Currently, I'm focusing on strengthening my foundations and exploring the depths of the .NET ecosystem.
+Computer Science student at **Cairo University (FCAI-CU)**. I specialize in building secure backends and exploring the world of cybersecurity.
 
-- 🎓 **Education:** Faculty of Computers and Artificial Intelligence, Cairo University.
-- 💡 **Interests:** Software Architecture, Cyber Security, and Competitive Programming.
-- 🌱 **Currently Learning:** Advanced .NET Core, Web Security Fundamentals, and Data Structures.
+- 🚀 **Focus:** Scalable .NET Systems & Web Security.
+- 🧩 **Passion:** Solving complex problems with C++.
+- 🛠️ **Strategy:** Breaking applications to understand how to build them stronger.
 
 ---
 
-### 🚀 Technical Skills
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Core & Logic** | **Web Development** | **Security & Tools** |
+| **Software Development** | **Web Fundamentals** | **Security & Networking** |
 | :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white) |
-| ![OOP](https://img.shields.io/badge/OOP-Logic-green?style=for-the-badge) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Security](https://img.shields.io/badge/Web_Security-FF0000?style=for-the-badge&logo=guardant&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Networking](https://img.shields.io/badge/Networking-0052FF?style=for-the-badge&logo=cisco&logoColor=white) |
+| ![OOP](https://img.shields.io/badge/OOP-Logic-green?style=for-the-badge) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+</div>
+
+<div align="center">
+  
+**Security Tools:** ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) 
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 Performance Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeyadabmonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9&icon_color=00D1FF" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyadabmonem&bg_color=0D1117&color=00D1FF&line=00D1FF&area=true&hide_border=true" width="48%" />
 </p>
 
----
-
-### 🛠️ What I'm working on
-- [ ] Mastering **C++ Data Structures** for Problem Solving.
-- [ ] Building my first **Secure Web API** with .NET Core.
-- [ ] Learning the basics of **OWASP Top 10**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadabmonem&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ---
 
