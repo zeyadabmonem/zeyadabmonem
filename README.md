@@ -1,7 +1,7 @@
 # <p align="center">⚔️ ZEYAD ABDELMONEM ⚔️</p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00D1FF&label=PROFILE%20VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzeyadabmonem%2Fvisits&style=for-the-badge&logo=eye" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=zeyadabmonem&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge&base=80" alt="Views" />
 </p>
 
 <p align="center">
@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=4000&color=BD93F9&center=true&vCenter=true&width=700&lines=%22It%E2%80%99s+not+that+I%E2%80%99m+so+smart%2C+it%E2%80%99s+just+that+I+stay+with+problems+longer.%22+--+Einstein" alt="Quote SVG" />
+  <font color="#BD93F9" size="4">
+    <i>"It's not that I'm so smart, it's just that I stay with problems longer."</i>
+  </font>
+  <br>
+  <b>— Albert Einstein 🧩</b>
 </p>
 
 ---
