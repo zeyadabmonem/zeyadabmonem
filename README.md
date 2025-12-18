@@ -1,15 +1,21 @@
 # <p align="center">⚔️ ZEYAD ABDELMONEM ⚔️</p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zeyadabmonem&label=ACCESS+GRANTED&color=00D1FF&style=flat-square&base=60" alt="Views" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Cs+Student+@+Cairo+University;Full+Stack+.NET+Developer;Web+Penetration+Tester;C%2B%2B+Problem+Solver;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>"It’s not that I’m so smart, it’s just that I stay with problems longer."</i> <br>— <b>Albert Einstein</b> 🧩
 </p>
 
 ---
 
 ### 🌑 About Me
 I am a Computer Science student at **Cairo University (FCAI-CU)**. I build high-performance applications with **.NET** and dive deep into **Web Security**.
-
-> "The quieter you become, the more you are able to hear." — **Kali Linux** 🛡️
 
 - 🚀 **Focus:** Scalable .NET Systems & Web Security.
 - 🧩 **Passion:** Solving complex problems with C++.
@@ -39,10 +45,6 @@ I am a Computer Science student at **Cairo University (FCAI-CU)**. I build high-
 ---
 
 ### 📊 System Performance
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zeyadabmonem&label=ACCESS+GRANTED&color=00D1FF&style=flat-square&base=60" alt="Views" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeyadabmonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9&icon_color=00D1FF" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyadabmonem&bg_color=0D1117&color=00D1FF&line=00D1FF&area=true&hide_border=true" width="48%" />
