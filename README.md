@@ -1,4 +1,4 @@
-# <p align="center">⚔️ ZEYAD ABDELMONEM ⚔️</p>
+# <p align="center"> Zeyad Abdel-Monem </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zeyadabmonem&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge&base=80" alt="Views" />
@@ -13,7 +13,7 @@
     <i>"It's not that I'm so smart, it's just that I stay with problems longer."</i>
   </font>
   <br>
-  <b>— Albert Einstein 🧩</b>
+  <b></b>
 </p>
 
 ---
@@ -56,7 +56,7 @@ I am a Computer Science student at **Cairo University (FCAI-CU)**. I build high-
 
 ---
 
-### 🐍 Network Activity (Contribution Snake)
+### 🐍 Network Activity 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zeyadabmonem/zeyadabmonem/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
